@@ -1,28 +1,29 @@
 "# CoronaTest" 
 
 כתבתי את הפרויקט ב: 
-C# .NET Core - צד שרת  
-SQL - מסד הנתונים 
-DB First - גישה למסד הנתונים 
-Data Connection, ConnectionString ע"י הוספת 
-DAPPER השליפה ממסד הנתונים היא באמצעות 
-react - צד לקוח 
-axios שליפת הנתונים ע"י 
-npm install :בשביל להריץ את הפרויקט יש להריץ בצד הלקוח
+I have developed the project using the following technologies:
 
-צילומי מסך: 
+C# .NET Core: Server-side development
+SQL: Database management
+DB First approach: Access to the database
+Data connection and ConnectionString setup: Achieved by adding DAPPER
+Data retrieval from the database: Utilizing DAPPER
+React: Client-side development
+Axios: Data fetching
+npm install: Required to run the project on the client-side
 
-1. מסך הבית - הצגת כל המשתמשים 
+Screenshots:
+1.Home Screen - Displaying all Users 
 ![alt text](image.png)
-2. הצגת פרטי משתמש מחוסן
+2. Displaying Vaccinated User Details
 ![alt text](image-1.png) 
-3. הצגת החיסונים למשתמש
+3. Displaying Vaccinated User Details
 ![alt text](image-3.png)
-4. הצגת פרטי משתמש לא מחוסן 
+4.Displaying Details of Non-vaccinated User 
 ![alt text](image-2.png)
-5. עידכון פרטי משתמש
+5. Updating User Details
 ![alt text](image-4.png)
-6. עריכת פרטי חיסון 
+6. Editing Vaccination Details
 ![alt text](image-5.png)
-7. הוספת חיסון 
+7.Adding a Vaccination
 ![alt text](image-6.png)
