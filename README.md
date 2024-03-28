@@ -1,8 +1,6 @@
 "# CoronaTest" 
 
-כתבתי את הפרויקט ב: 
 I have developed the project using the following technologies:
-
 C# .NET Core: Server-side development
 SQL: Database management
 DB First approach: Access to the database
