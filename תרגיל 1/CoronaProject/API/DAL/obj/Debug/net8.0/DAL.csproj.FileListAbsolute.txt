@@ -1,0 +1,16 @@
+C:\רחלי\CoronaProject\API\DAL\bin\Debug\net8.0\DAL.dll.config
+C:\רחלי\CoronaProject\API\DAL\bin\Debug\net8.0\DAL.deps.json
+C:\רחלי\CoronaProject\API\DAL\bin\Debug\net8.0\DAL.dll
+C:\רחלי\CoronaProject\API\DAL\bin\Debug\net8.0\DAL.pdb
+C:\רחלי\CoronaProject\API\DAL\bin\Debug\net8.0\MODELS.dll
+C:\רחלי\CoronaProject\API\DAL\bin\Debug\net8.0\MODELS.pdb
+C:\רחלי\CoronaProject\API\DAL\obj\Debug\net8.0\DAL.csproj.AssemblyReference.cache
+C:\רחלי\CoronaProject\API\DAL\obj\Debug\net8.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\רחלי\CoronaProject\API\DAL\obj\Debug\net8.0\DAL.AssemblyInfoInputs.cache
+C:\רחלי\CoronaProject\API\DAL\obj\Debug\net8.0\DAL.AssemblyInfo.cs
+C:\רחלי\CoronaProject\API\DAL\obj\Debug\net8.0\DAL.csproj.CoreCompileInputs.cache
+C:\רחלי\CoronaProject\API\DAL\obj\Debug\net8.0\DAL.csproj.Up2Date
+C:\רחלי\CoronaProject\API\DAL\obj\Debug\net8.0\DAL.dll
+C:\רחלי\CoronaProject\API\DAL\obj\Debug\net8.0\refint\DAL.dll
+C:\רחלי\CoronaProject\API\DAL\obj\Debug\net8.0\DAL.pdb
+C:\רחלי\CoronaProject\API\DAL\obj\Debug\net8.0\ref\DAL.dll

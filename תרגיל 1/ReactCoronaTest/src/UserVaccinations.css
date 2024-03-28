@@ -1,0 +1,65 @@
+/* UserVaccinations.css */
+
+.user-vaccinations-container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .user-vaccinations-title {
+    text-align: center;
+    font-size: 28px;
+    color: red;
+  }
+  
+  .user-vaccinations-list {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .user-vaccination-item {
+    margin-bottom: 20px;
+  }
+  
+  .user-vaccination-details {
+    font-size: 18px;
+    text-align: left;
+  }
+  
+  .user-link {
+    width: 150px;
+    text-align: center;
+    display: block;
+    text-decoration: none;
+    color: black;
+    background-color: white;
+    padding: 10px 20px;
+    border: 1px solid #ff0000; /* אדום */
+    border-radius: 5px;
+    margin:5% 25% 0% 25%;
+  }
+  #user-link-delete{
+    width: 192px;
+    font-size: 15px;
+  }
+
+  .user-link:hover {
+    color: black;
+    background-color: #ff9999; /* אדום כהה */
+  }
+  
+  #user-link-add {
+    width: 200px;
+    text-align: center;
+    display: block;
+    text-decoration: none;
+    color: black;
+    background-color: white;
+    padding: 10px 20px;
+    border: 1px solid #ff0000; /* אדום */
+    border-radius: 5px;
+    margin:5% 28% 0% 28%;
+    font-weight: bold;
+    font-size: 20px;
+  }

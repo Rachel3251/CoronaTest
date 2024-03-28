@@ -1,0 +1,74 @@
+/* UsersList.css */
+
+#users-list-container {
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 20px;
+  text-align: center;
+}
+
+#users-list-h1 {
+  font-size: 36px;
+  color: red;
+}
+
+#users-list-h2 {
+  font-size: 24px;
+  color: red;
+}
+
+#users-list {
+  list-style-type: none;
+  padding: 0;
+}
+
+.user-item {
+  margin-bottom: 10px;
+}
+
+#user-link {
+  width: 150px;
+  display: inline-block;
+  text-decoration: none;
+  color: black;
+  background-color: white;
+  border: 1px solid #ff0000;
+  border-radius: 5px;
+  padding: 10px 20px 20px;
+  margin:10% 25% 10% 25%;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  font-size: 15px;
+}
+
+#user-link-add{
+  width: 200px;
+  display: inline-block;
+  text-decoration: none;
+  color: black;
+  background-color: white;
+  border: 1px solid #ff0000;
+  border-radius: 5px;
+  padding: 10px 20px 20px;
+  margin:5% 25% 0% 21%;  margin-top: 10px;
+  margin-bottom: 10px;
+  font-size: 15px;
+}
+
+.users-list ul li{
+  list-style: none;
+  padding: 0;
+}
+
+.user-link:hover{
+  color: black;
+  background-color: #f0adad;
+}
+
+#user-link-add {
+  font-weight: bold;
+}
+
+#users-list ul {
+  list-style: none;
+}

@@ -1,0 +1,64 @@
+/* UpdateVaccination.css */
+
+.update-vaccination-container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    text-align: center;
+}
+
+.update-vaccination-title {
+    font-size: 28px;
+    color: red;
+}
+
+.update-vaccination-content {
+    font-size: 20px;
+    text-align: left;
+}
+
+.update-vaccination-form {
+    margin-top: 20px;
+}
+
+.update-vaccination-form label {
+    display: block;
+    margin-bottom: 10px;
+}
+
+.update-vaccination-form input[type="date"],
+.update-vaccination-form input[type="text"] {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+.update-vaccination-form button[type="submit"] {
+    display: inline-block;
+    padding: 12px 24px;
+    background-color: #ff0000; /* אדום */
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+.update-vaccination-form button[type="submit"]:hover {
+    background-color: #ff9999; /* אדום כהה */
+}
+
+.back-link {
+    display: inline-block;
+    margin-top: 20px;
+    text-decoration: none;
+    color: #ff0000; /* אדום */
+    font-weight: bold;
+    transition: color 0.3s;
+}
+
+.back-link:hover {
+    color: #ff9999; /* אדום כהה */
+}

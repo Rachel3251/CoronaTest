@@ -1,0 +1,401 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\\u05E8\u05D7\u05DC\u05D9\\CoronaProject\\API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ED91E4EF-92ED-4EE6-ACA3-E4AB06995D2D}|DAL\\DAL.csproj|c:\\\u05E8\u05D7\u05DC\u05D9\\coronaproject\\api\\dal\\userdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED91E4EF-92ED-4EE6-ACA3-E4AB06995D2D}|DAL\\DAL.csproj|solutionrelative:dal\\userdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7EF8000-0B87-4E37-9905-EA1A29CF44C6}|MODELS\\MODELS.csproj|c:\\\u05E8\u05D7\u05DC\u05D9\\coronaproject\\api\\models\\vaccination.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7EF8000-0B87-4E37-9905-EA1A29CF44C6}|MODELS\\MODELS.csproj|solutionrelative:models\\vaccination.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7EF8000-0B87-4E37-9905-EA1A29CF44C6}|MODELS\\MODELS.csproj|c:\\\u05E8\u05D7\u05DC\u05D9\\coronaproject\\api\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7EF8000-0B87-4E37-9905-EA1A29CF44C6}|MODELS\\MODELS.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF092344-7047-4D69-9F1E-19E0C8986FB4}|API\\API.csproj|c:\\\u05E8\u05D7\u05DC\u05D9\\coronaproject\\api\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF092344-7047-4D69-9F1E-19E0C8986FB4}|API\\API.csproj|solutionrelative:api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED91E4EF-92ED-4EE6-ACA3-E4AB06995D2D}|DAL\\DAL.csproj|c:\\\u05E8\u05D7\u05DC\u05D9\\coronaproject\\api\\dal\\vaccinationdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED91E4EF-92ED-4EE6-ACA3-E4AB06995D2D}|DAL\\DAL.csproj|solutionrelative:dal\\vaccinationdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BB8CEC1-4376-4637-BF2F-F9E5A74A0B23}|BLL\\BLL.csproj|c:\\\u05E8\u05D7\u05DC\u05D9\\coronaproject\\api\\bll\\vaccinationbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BB8CEC1-4376-4637-BF2F-F9E5A74A0B23}|BLL\\BLL.csproj|solutionrelative:bll\\vaccinationbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF092344-7047-4D69-9F1E-19E0C8986FB4}|API\\API.csproj|c:\\\u05E8\u05D7\u05DC\u05D9\\coronaproject\\api\\api\\controllers\\vaccinationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF092344-7047-4D69-9F1E-19E0C8986FB4}|API\\API.csproj|solutionrelative:api\\controllers\\vaccinationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF092344-7047-4D69-9F1E-19E0C8986FB4}|API\\API.csproj|c:\\\u05E8\u05D7\u05DC\u05D9\\coronaproject\\api\\api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF092344-7047-4D69-9F1E-19E0C8986FB4}|API\\API.csproj|solutionrelative:api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED91E4EF-92ED-4EE6-ACA3-E4AB06995D2D}|DAL\\DAL.csproj|c:\\\u05E8\u05D7\u05DC\u05D9\\coronaproject\\api\\dal\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED91E4EF-92ED-4EE6-ACA3-E4AB06995D2D}|DAL\\DAL.csproj|solutionrelative:dal\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BB8CEC1-4376-4637-BF2F-F9E5A74A0B23}|BLL\\BLL.csproj|c:\\\u05E8\u05D7\u05DC\u05D9\\coronaproject\\api\\bll\\userbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BB8CEC1-4376-4637-BF2F-F9E5A74A0B23}|BLL\\BLL.csproj|solutionrelative:bll\\userbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7EF8000-0B87-4E37-9905-EA1A29CF44C6}|MODELS\\MODELS.csproj|c:\\\u05E8\u05D7\u05DC\u05D9\\coronaproject\\api\\models\\uservaccinations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7EF8000-0B87-4E37-9905-EA1A29CF44C6}|MODELS\\MODELS.csproj|solutionrelative:models\\uservaccinations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED91E4EF-92ED-4EE6-ACA3-E4AB06995D2D}|DAL\\DAL.csproj|c:\\\u05E8\u05D7\u05DC\u05D9\\coronaproject\\api\\dal\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED91E4EF-92ED-4EE6-ACA3-E4AB06995D2D}|DAL\\DAL.csproj|solutionrelative:dal\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED91E4EF-92ED-4EE6-ACA3-E4AB06995D2D}|DAL\\DAL.csproj|c:\\\u05E8\u05D7\u05DC\u05D9\\coronaproject\\api\\dal\\db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED91E4EF-92ED-4EE6-ACA3-E4AB06995D2D}|DAL\\DAL.csproj|solutionrelative:dal\\db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\\u05E8\u05D7\u05DC\u05D9\\CoronaProject\\API\\DAL\\User.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DAL\\User.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF092344-7047-4D69-9F1E-19E0C8986FB4}|API\\API.csproj|c:\\\u05E8\u05D7\u05DC\u05D9\\coronaproject\\api\\api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FF092344-7047-4D69-9F1E-19E0C8986FB4}|API\\API.csproj|solutionrelative:api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED91E4EF-92ED-4EE6-ACA3-E4AB06995D2D}|DAL\\DAL.csproj|c:\\\u05E8\u05D7\u05DC\u05D9\\coronaproject\\api\\dal\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{ED91E4EF-92ED-4EE6-ACA3-E4AB06995D2D}|DAL\\DAL.csproj|solutionrelative:dal\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF092344-7047-4D69-9F1E-19E0C8986FB4}|API\\API.csproj|c:\\\u05E8\u05D7\u05DC\u05D9\\coronaproject\\api\\api\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{FF092344-7047-4D69-9F1E-19E0C8986FB4}|API\\API.csproj|solutionrelative:api\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF092344-7047-4D69-9F1E-19E0C8986FB4}|API\\API.csproj|c:\\\u05E8\u05D7\u05DC\u05D9\\coronaproject\\api\\api\\api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FF092344-7047-4D69-9F1E-19E0C8986FB4}|API\\API.csproj|solutionrelative:api\\api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BB8CEC1-4376-4637-BF2F-F9E5A74A0B23}|BLL\\BLL.csproj|c:\\\u05E8\u05D7\u05DC\u05D9\\coronaproject\\api\\bll\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BB8CEC1-4376-4637-BF2F-F9E5A74A0B23}|BLL\\BLL.csproj|solutionrelative:bll\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7EF8000-0B87-4E37-9905-EA1A29CF44C6}|MODELS\\MODELS.csproj|c:\\\u05E8\u05D7\u05DC\u05D9\\coronaproject\\api\\models\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7EF8000-0B87-4E37-9905-EA1A29CF44C6}|MODELS\\MODELS.csproj|solutionrelative:models\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\\u05E8\u05D7\u05DC\u05D9\\CoronaProject\\API\\BLL\\UserVaccinationBLL.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BLL\\UserVaccinationBLL.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\\u05E8\u05D7\u05DC\u05D9\\CoronaProject\\API\\API\\Controllers\\UserVaccinationController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:API\\Controllers\\UserVaccinationController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\\u05E8\u05D7\u05DC\u05D9\\CoronaProject\\API\\DAL\\UserVaccinationDAL.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DAL\\UserVaccinationDAL.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "VaccinationBll.cs",
+              "DocumentMoniker": "C:\\\u05E8\u05D7\u05DC\u05D9\\CoronaProject\\API\\BLL\\VaccinationBll.cs",
+              "RelativeDocumentMoniker": "BLL\\VaccinationBll.cs",
+              "ToolTip": "C:\\\u05E8\u05D7\u05DC\u05D9\\CoronaProject\\API\\BLL\\VaccinationBll.cs",
+              "RelativeToolTip": "BLL\\VaccinationBll.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T10:53:59.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserBll.cs",
+              "DocumentMoniker": "C:\\\u05E8\u05D7\u05DC\u05D9\\CoronaProject\\API\\BLL\\UserBll.cs",
+              "RelativeDocumentMoniker": "BLL\\UserBll.cs",
+              "ToolTip": "C:\\\u05E8\u05D7\u05DC\u05D9\\CoronaProject\\API\\BLL\\UserBll.cs",
+              "RelativeToolTip": "BLL\\UserBll.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T10:19:35.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserDAL.cs",
+              "DocumentMoniker": "C:\\\u05E8\u05D7\u05DC\u05D9\\CoronaProject\\API\\DAL\\UserDAL.cs",
+              "RelativeDocumentMoniker": "DAL\\UserDAL.cs",
+              "ToolTip": "C:\\\u05E8\u05D7\u05DC\u05D9\\CoronaProject\\API\\DAL\\UserDAL.cs",
+              "RelativeToolTip": "DAL\\UserDAL.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAewAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T08:04:20.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "VaccinationDAL.cs",
+              "DocumentMoniker": "C:\\\u05E8\u05D7\u05DC\u05D9\\CoronaProject\\API\\DAL\\VaccinationDAL.cs",
+              "RelativeDocumentMoniker": "DAL\\VaccinationDAL.cs",
+              "ToolTip": "C:\\\u05E8\u05D7\u05DC\u05D9\\CoronaProject\\API\\DAL\\VaccinationDAL.cs",
+              "RelativeToolTip": "DAL\\VaccinationDAL.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAAwwGQAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T10:34:00.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "UserVaccinationBLL.cs",
+              "DocumentMoniker": "C:\\\u05E8\u05D7\u05DC\u05D9\\CoronaProject\\API\\BLL\\UserVaccinationBLL.cs",
+              "RelativeDocumentMoniker": "BLL\\UserVaccinationBLL.cs",
+              "ToolTip": "C:\\\u05E8\u05D7\u05DC\u05D9\\CoronaProject\\API\\BLL\\UserVaccinationBLL.cs",
+              "RelativeToolTip": "BLL\\UserVaccinationBLL.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABwAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T22:10:35.346Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\\u05E8\u05D7\u05DC\u05D9\\CoronaProject\\API\\API\\Program.cs",
+              "RelativeDocumentMoniker": "API\\Program.cs",
+              "ToolTip": "C:\\\u05E8\u05D7\u05DC\u05D9\\CoronaProject\\API\\API\\Program.cs",
+              "RelativeToolTip": "API\\Program.cs",
+              "ViewState": "AQIAADsAAAAAAAAAAAAvwEMAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T18:58:08.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "UserVaccinationController.cs",
+              "DocumentMoniker": "C:\\\u05E8\u05D7\u05DC\u05D9\\CoronaProject\\API\\API\\Controllers\\UserVaccinationController.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\UserVaccinationController.cs",
+              "ToolTip": "C:\\\u05E8\u05D7\u05DC\u05D9\\CoronaProject\\API\\API\\Controllers\\UserVaccinationController.cs",
+              "RelativeToolTip": "API\\Controllers\\UserVaccinationController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAowCEAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T22:10:35.264Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "VaccinationController.cs",
+              "DocumentMoniker": "C:\\\u05E8\u05D7\u05DC\u05D9\\CoronaProject\\API\\API\\Controllers\\VaccinationController.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\VaccinationController.cs",
+              "ToolTip": "C:\\\u05E8\u05D7\u05DC\u05D9\\CoronaProject\\API\\API\\Controllers\\VaccinationController.cs",
+              "RelativeToolTip": "API\\Controllers\\VaccinationController.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwBoAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T10:28:55.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "UserVaccinationDAL.cs",
+              "DocumentMoniker": "C:\\\u05E8\u05D7\u05DC\u05D9\\CoronaProject\\API\\DAL\\UserVaccinationDAL.cs",
+              "RelativeDocumentMoniker": "DAL\\UserVaccinationDAL.cs",
+              "ToolTip": "C:\\\u05E8\u05D7\u05DC\u05D9\\CoronaProject\\API\\DAL\\UserVaccinationDAL.cs",
+              "RelativeToolTip": "DAL\\UserVaccinationDAL.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAIwDMAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T22:28:08.778Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Vaccination.cs",
+              "DocumentMoniker": "C:\\\u05E8\u05D7\u05DC\u05D9\\CoronaProject\\API\\MODELS\\Vaccination.cs",
+              "RelativeDocumentMoniker": "MODELS\\Vaccination.cs",
+              "ToolTip": "C:\\\u05E8\u05D7\u05DC\u05D9\\CoronaProject\\API\\MODELS\\Vaccination.cs",
+              "RelativeToolTip": "MODELS\\Vaccination.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwA4AAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T10:17:59.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UserVaccinations.cs",
+              "DocumentMoniker": "C:\\\u05E8\u05D7\u05DC\u05D9\\CoronaProject\\API\\MODELS\\UserVaccinations.cs",
+              "RelativeDocumentMoniker": "MODELS\\UserVaccinations.cs",
+              "ToolTip": "C:\\\u05E8\u05D7\u05DC\u05D9\\CoronaProject\\API\\MODELS\\UserVaccinations.cs",
+              "RelativeToolTip": "MODELS\\UserVaccinations.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T22:10:31.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\\u05E8\u05D7\u05DC\u05D9\\CoronaProject\\API\\API\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\\u05E8\u05D7\u05DC\u05D9\\CoronaProject\\API\\API\\Controllers\\UserController.cs",
+              "RelativeToolTip": "API\\Controllers\\UserController.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAcwBYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T08:27:45.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\\u05E8\u05D7\u05DC\u05D9\\CoronaProject\\API\\API\\appsettings.json",
+              "RelativeDocumentMoniker": "API\\appsettings.json",
+              "ToolTip": "C:\\\u05E8\u05D7\u05DC\u05D9\\CoronaProject\\API\\API\\appsettings.json",
+              "RelativeToolTip": "API\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-25T19:37:21.276Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\\u05E8\u05D7\u05DC\u05D9\\CoronaProject\\API\\DAL\\App.config",
+              "RelativeDocumentMoniker": "DAL\\App.config",
+              "ToolTip": "C:\\\u05E8\u05D7\u05DC\u05D9\\CoronaProject\\API\\DAL\\App.config",
+              "RelativeToolTip": "DAL\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-03-25T07:49:49.347Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\\u05E8\u05D7\u05DC\u05D9\\CoronaProject\\API\\DAL\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "DAL\\IUserRepository.cs",
+              "ToolTip": "C:\\\u05E8\u05D7\u05DC\u05D9\\CoronaProject\\API\\DAL\\IUserRepository.cs",
+              "RelativeToolTip": "DAL\\IUserRepository.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAmwBkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T20:06:41.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\\u05E8\u05D7\u05DC\u05D9\\CoronaProject\\API\\MODELS\\User.cs",
+              "RelativeDocumentMoniker": "MODELS\\User.cs",
+              "ToolTip": "C:\\\u05E8\u05D7\u05DC\u05D9\\CoronaProject\\API\\MODELS\\User.cs",
+              "RelativeToolTip": "MODELS\\User.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAA9wA4AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T08:16:40.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\\u05E8\u05D7\u05DC\u05D9\\CoronaProject\\API\\BLL\\Class1.cs",
+              "RelativeDocumentMoniker": "BLL\\Class1.cs",
+              "ToolTip": "C:\\\u05E8\u05D7\u05DC\u05D9\\CoronaProject\\API\\BLL\\Class1.cs",
+              "RelativeToolTip": "BLL\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T02:08:30.964Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DB.cs",
+              "DocumentMoniker": "C:\\\u05E8\u05D7\u05DC\u05D9\\CoronaProject\\API\\DAL\\DB.cs",
+              "RelativeDocumentMoniker": "DAL\\DB.cs",
+              "ToolTip": "C:\\\u05E8\u05D7\u05DC\u05D9\\CoronaProject\\API\\DAL\\DB.cs",
+              "RelativeToolTip": "DAL\\DB.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T20:10:17.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "web.config",
+              "DocumentMoniker": "C:\\\u05E8\u05D7\u05DC\u05D9\\CoronaProject\\API\\API\\web.config",
+              "RelativeDocumentMoniker": "API\\web.config",
+              "ToolTip": "C:\\\u05E8\u05D7\u05DC\u05D9\\CoronaProject\\API\\API\\web.config",
+              "RelativeToolTip": "API\\web.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-03-25T19:23:56.89Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\\u05E8\u05D7\u05DC\u05D9\\CoronaProject\\API\\DAL\\User.cs",
+              "RelativeDocumentMoniker": "DAL\\User.cs",
+              "ToolTip": "C:\\\u05E8\u05D7\u05DC\u05D9\\CoronaProject\\API\\DAL\\User.cs",
+              "RelativeToolTip": "DAL\\User.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAswA4AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T08:06:04.159Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "API.csproj",
+              "DocumentMoniker": "C:\\\u05E8\u05D7\u05DC\u05D9\\CoronaProject\\API\\API\\API.csproj",
+              "RelativeDocumentMoniker": "API\\API.csproj",
+              "ToolTip": "C:\\\u05E8\u05D7\u05DC\u05D9\\CoronaProject\\API\\API\\API.csproj",
+              "RelativeToolTip": "API\\API.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-24T02:09:42.426Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\\u05E8\u05D7\u05DC\u05D9\\CoronaProject\\API\\DAL\\Class1.cs",
+              "RelativeDocumentMoniker": "DAL\\Class1.cs",
+              "ToolTip": "C:\\\u05E8\u05D7\u05DC\u05D9\\CoronaProject\\API\\DAL\\Class1.cs",
+              "RelativeToolTip": "DAL\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAIAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T02:08:44.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\\u05E8\u05D7\u05DC\u05D9\\CoronaProject\\API\\MODELS\\Class1.cs",
+              "RelativeDocumentMoniker": "MODELS\\Class1.cs",
+              "ToolTip": "C:\\\u05E8\u05D7\u05DC\u05D9\\CoronaProject\\API\\MODELS\\Class1.cs",
+              "RelativeToolTip": "MODELS\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T02:08:56.347Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

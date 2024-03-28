@@ -1,0 +1,12 @@
+C:\רחלי\CoronaProject\API\MODELS\bin\Debug\net8.0\MODELS.deps.json
+C:\רחלי\CoronaProject\API\MODELS\bin\Debug\net8.0\MODELS.dll
+C:\רחלי\CoronaProject\API\MODELS\bin\Debug\net8.0\MODELS.pdb
+C:\רחלי\CoronaProject\API\MODELS\obj\Debug\net8.0\MODELS.GeneratedMSBuildEditorConfig.editorconfig
+C:\רחלי\CoronaProject\API\MODELS\obj\Debug\net8.0\MODELS.AssemblyInfoInputs.cache
+C:\רחלי\CoronaProject\API\MODELS\obj\Debug\net8.0\MODELS.AssemblyInfo.cs
+C:\רחלי\CoronaProject\API\MODELS\obj\Debug\net8.0\MODELS.csproj.CoreCompileInputs.cache
+C:\רחלי\CoronaProject\API\MODELS\obj\Debug\net8.0\MODELS.dll
+C:\רחלי\CoronaProject\API\MODELS\obj\Debug\net8.0\refint\MODELS.dll
+C:\רחלי\CoronaProject\API\MODELS\obj\Debug\net8.0\MODELS.pdb
+C:\רחלי\CoronaProject\API\MODELS\obj\Debug\net8.0\ref\MODELS.dll
+C:\רחלי\CoronaProject\API\MODELS\obj\Debug\net8.0\MODELS.csproj.AssemblyReference.cache
